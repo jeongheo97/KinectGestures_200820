@@ -12,7 +12,7 @@
 #Prerequisite
 - Download Kinect v2 SDK @ https://www.microsoft.com/en-us/download/details.aspx?id=44561
 
-- Download K4W Unity Pro Packages @ https://www.microsoft.com/en-us/download/details.aspx?id=44561
+- Download K4W Unity Pro Packages @ https://developer.microsoft.com/en-us/windows/kinect/
 
 <br>
 
