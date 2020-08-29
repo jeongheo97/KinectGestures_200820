@@ -1,4 +1,4 @@
-# Kinect + Unity Seminar #1: Building Custom Gesture with Kinect + VisualGestureBuilder + Unity
+# Kinect + Unity Seminar #1: Custom Gesture Detection with Kinect + VisualGestureBuilder + Unity
 
 <br>
 
