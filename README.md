@@ -3,7 +3,7 @@
 <br>
 
 #Source
-- This project is forked from Kat V Harris's KinectGesture application @ https://github.com/KatVHarris/Unity5-KinectGestures
+- This project is a modified version of Kat V Harris's KinectGesture application @ https://github.com/KatVHarris/Unity5-KinectGestures
 
 - Video Tutorial: [Making your Body the Controller] by the author, Kat V Harris @ https://channel9.msdn.com/Blogs/raw-tech/Making-your-body-the-controller-Kinect-Tutorial-for-Unity
 
